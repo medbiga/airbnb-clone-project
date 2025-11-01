@@ -10,3 +10,6 @@ Software developer: Engineers and stabilizes the product and Solves any technica
 Quality assurance (QA) engineer: Makes sure an application performs according to requirements and Spots functional and non-functional defects.
 Test automation engineer: Designs a test automation ecosystem and Writes and maintains test scripts for automated testing.
 DevOps engineer: Facilitates cooperation between development and operations teams and Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery.
+
+# Technology Stack
+Django, MySQL, CI/CD, Docker, GitHub
