@@ -18,3 +18,10 @@ Django, MySQL, CI/CD, Docker, GitHub
 entities required for this project are Users, Properties, Bookings, Reviews, and Payments.
 for Users there are many fiels such as: Fname, Lname, DOB, PhoneNumber, Address.
 For Properties, there are PropertyID, location, state.
+
+#Feature Breakdown
+user management, property management, booking system.
+Property management: managers/owners. In this managers can manage their hotel's related information
+User management: customers. In this customers can search and book a hotel.
+Booking system: Here all current and old booking details are shown to the user. Both managers and customers use this service.
+
