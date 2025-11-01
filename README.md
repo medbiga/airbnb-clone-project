@@ -58,3 +58,5 @@ GET /reviews/{review_id}/ - Retrieve a specific review
 PUT /reviews/{review_id}/ - Update a specific review
 DELETE /reviews/{review_id}/ - Delete a specific review
 
+# CI/CD Pipeline
+Automated pipelines for testing and deploying code changes.
