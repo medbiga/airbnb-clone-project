@@ -12,14 +12,14 @@ Test automation engineer: Designs a test automation ecosystem and Writes and mai
 DevOps engineer: Facilitates cooperation between development and operations teams and Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery.
 
 # Technology Stack
-Django, MySQL, CI/CD, Docker, GitHub
+Django, MySQL, CI/CD, Docker, GitHub.
 
-#Database Design
+# Database Design
 entities required for this project are Users, Properties, Bookings, Reviews, and Payments.
 for Users there are many fiels such as: Fname, Lname, DOB, PhoneNumber, Address.
 For Properties, there are PropertyID, location, state.
 
-#Feature Breakdown
+# Feature Breakdown
 user management, property management, booking system.
 Property management: managers/owners. In this managers can manage their hotel's related information
 User management: customers. In this customers can search and book a hotel.
