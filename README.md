@@ -13,3 +13,8 @@ DevOps engineer: Facilitates cooperation between development and operations team
 
 # Technology Stack
 Django, MySQL, CI/CD, Docker, GitHub
+
+#Database Design
+entities required for this project are Users, Properties, Bookings, Reviews, and Payments.
+for Users there are many fiels such as: Fname, Lname, DOB, PhoneNumber, Address.
+For Properties, there are PropertyID, location, state.
